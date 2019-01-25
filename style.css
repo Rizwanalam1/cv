@@ -1,0 +1,26 @@
+body{
+  background-color: green;
+}
+h3{
+  font-family: sans-serif;
+}
+
+.new{
+  font-style: italic;
+}
+#set{
+  background: yellow;
+}
+.textarea{
+  font-style: oblique;
+  font-size: 15px;
+
+
+}
+img{
+  border-radius: 100%;
+
+}
+.side{
+  width:20px;
+}
